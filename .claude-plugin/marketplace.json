@@ -1,0 +1,5 @@
+{
+  "name": "aurora-drift",
+  "owner": { "name": "Ochagoro" },
+  "plugins": [{ "name": "aurora-drift", "source": "./" }]
+}
